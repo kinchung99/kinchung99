@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chan Kin Chung
 
-### Year 2 CS student
+### Year 2 CS student @ Monash University Malaysia
 
 - 🔭 I'm currently working on **Student, passionate on full stack development and AI engineer**
 
