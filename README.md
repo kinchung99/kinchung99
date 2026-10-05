@@ -23,23 +23,20 @@
 
 ## 🚀 Featured Projects
 
-### ⚓ Ballast &nbsp;·&nbsp; <sub><b>CodeNection Hackathon 2026 — Finalist 🏆 &nbsp;·&nbsp; currently in the building phase 🚧</b></sub>
+### ⚓ Ballast &nbsp;·&nbsp; <sub><b>CodeNection Hackathon 2026 — Finalist 🏆 &nbsp;·&nbsp; in the building phase 🚧</b></sub>
 
-<img src="assets/ballast.png" alt="Ballast — home, what to do first, and your circle" width="100%">
+<p align="center">
+  <img src="assets/ballast.png" alt="Ballast — what to do first, home, and your circle" width="76%">
+</p>
 
 **A stress and workload manager for students who are already too busy to manage their stress.**
+Every task is scored as **`load = time × dread`**, so Ballast sees a bad week coming before it lands — and
+names the things you could put down to survive it.
 
-Every task is scored as **`load = time × dread`** — because an hour you are dreading costs more than an hour
-you are not. That one idea lets Ballast see a bad week coming *before* it lands, and name the specific things
-you could put down to survive it.
-
-**Highlights**
-
-- 🔋 **One honest number, and five areas underneath it** — a group presentation is not just "mental", it is mental *and* time *and* a social cost nobody would have thought to name. Ballast shows **which part of you** is overflowing, not just how full you are.
-- 🌊 **A 14-day forecast that warns you early** — *"Tuesday to Thursday next week is a wall. In 8 days."* Eight days is enough time to do something about it; the night before is not.
-- ⚖️ **Rebalance offers a trade, not a lecture** — keep one, drop the other, with attendance arithmetic deciding which classes you can actually afford to miss — then it writes the awkward message for you.
-- 👥 **A circle that shares a battery, not a calendar** — a charge, a band, and one line they wrote themselves. Never a task, a deadline or a module. Free evenings only if you choose to publish them.
-- 📴 **Runs on the phone, offline, one tap a day** — the planner is a deterministic algorithm rather than a chatbot, so the same week always produces the same advice.
+- 👥 **Friends** — *Nobody asks, because everyone assumes everyone else is busier.* Shares a battery, never a calendar: a charge, one line they wrote, and free evenings only if you publish them.
+- ⭐ **What to do first** — *Lists sort by what you typed; calendars sort by the clock.* Everything in the next seven days lands on one scale, with the reason on every row.
+- 🎓 **Timetable** — *Fourteen hours of class, invisible in most planners.* Paste it from your portal in any shape, then flag what matters — attendance arithmetic warns you before you cross the line.
+- 📄 **Owing** — *An assignment stays hidden until the night it ruins.* Work due later sits on every day until done, and books its own sittings into the lightest days before the deadline.
 
 <p>
   <a href="https://load-balancer-ballast.expo.app"><img src="https://img.shields.io/badge/LIVE%20PROTOTYPE-0B7285?style=for-the-badge&logoColor=white" alt="Live prototype"></a>
@@ -47,7 +44,7 @@ you could put down to survive it.
   <a href="#"><img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
 </p>
 
-<sub><code>React Native</code> <code>Expo</code> <code>Product Design</code> &nbsp;·&nbsp; prototype built with AI-assisted development.</sub>
+<sub><code>React Native</code> <code>Expo</code> &nbsp;·&nbsp; prototype built with Claude Code.</sub>
 
 ---
 
